@@ -1,0 +1,9 @@
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Negocios\bin\Release\Negocios.dll
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Negocios\bin\Release\Negocios.pdb
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Negocios\bin\Release\Control.dll
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Negocios\bin\Release\Datos.dll
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Negocios\bin\Release\Control.pdb
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Negocios\bin\Release\Datos.pdb
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Negocios\obj\Release\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Negocios\obj\Release\Negocios.dll
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Negocios\obj\Release\Negocios.pdb

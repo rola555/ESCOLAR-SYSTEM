@@ -1,0 +1,5 @@
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Control\bin\Release\Control.dll
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Control\bin\Release\Control.pdb
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Control\obj\Release\Control.csprojResolveAssemblyReference.cache
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Control\obj\Release\Control.dll
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Control\obj\Release\Control.pdb

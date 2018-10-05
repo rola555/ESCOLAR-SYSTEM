@@ -1,0 +1,16 @@
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Datos\bin\Debug\Datos.dll
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Datos\bin\Debug\Datos.pdb
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Datos\bin\Debug\Control.dll
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Datos\bin\Debug\Control.pdb
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Datos\obj\Debug\Datos.dll
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Datos\obj\Debug\Datos.pdb
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Datos\bin\Debug\Datos.dll.config
+C:\Users\ANUBIS\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Datos\bin\Debug\Datos.dll.config
+C:\Users\ANUBIS\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Datos\bin\Debug\Datos.dll
+C:\Users\ANUBIS\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Datos\bin\Debug\Datos.pdb
+C:\Users\ANUBIS\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Datos\bin\Debug\Control.dll
+C:\Users\ANUBIS\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Datos\bin\Debug\Control.pdb
+C:\Users\ANUBIS\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\ANUBIS\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Datos\obj\Debug\Datos.dll
+C:\Users\ANUBIS\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Datos\obj\Debug\Datos.pdb

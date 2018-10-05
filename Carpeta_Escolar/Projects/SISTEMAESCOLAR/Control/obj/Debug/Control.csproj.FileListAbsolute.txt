@@ -1,0 +1,10 @@
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Control\bin\Debug\Control.dll
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Control\bin\Debug\Control.pdb
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Control\obj\Debug\Control.dll
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Control\obj\Debug\Control.pdb
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Control\obj\Debug\Control.csprojResolveAssemblyReference.cache
+C:\Users\ANUBIS\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Control\bin\Debug\Control.dll
+C:\Users\ANUBIS\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Control\bin\Debug\Control.pdb
+C:\Users\ANUBIS\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Control\obj\Debug\Control.csprojResolveAssemblyReference.cache
+C:\Users\ANUBIS\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Control\obj\Debug\Control.dll
+C:\Users\ANUBIS\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Control\obj\Debug\Control.pdb

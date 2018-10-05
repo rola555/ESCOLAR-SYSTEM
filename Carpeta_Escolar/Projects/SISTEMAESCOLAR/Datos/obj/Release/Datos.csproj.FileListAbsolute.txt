@@ -1,0 +1,8 @@
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Datos\bin\Release\Datos.dll
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Datos\bin\Release\Datos.pdb
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Datos\bin\Release\Control.dll
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Datos\bin\Release\Control.pdb
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Datos\obj\Release\Datos.csprojResolveAssemblyReference.cache
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Datos\obj\Release\Datos.dll
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Datos\obj\Release\Datos.pdb
+C:\Users\pc1\Documents\Visual Studio 2015\Projects\SISTEMAESCOLAR\Datos\bin\Release\Datos.dll.config
